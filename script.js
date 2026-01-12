@@ -46,7 +46,7 @@ function drawCertificate(name, game){
     ctx.fillStyle = "white";
     ctx.font = "300px Arial bold";
     ctx.textAlign = "left";
-    ctx.fillText(name, 2400, 1920);
+    ctx.fillText(name, 2100, 1920);
 
     // EVENT NAME
     ctx.fillStyle = "#ffd369";
