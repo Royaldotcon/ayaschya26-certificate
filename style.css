@@ -1,0 +1,44 @@
+body{
+    background:#020c1b;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+h1{
+    color:#00ffff;
+    margin-top:20px;
+}
+
+.box{
+    margin:20px auto;
+}
+
+input,select,button{
+    padding:12px;
+    margin:8px;
+    font-size:18px;
+    border-radius:6px;
+    border:none;
+}
+
+button{
+    background:#00ffff;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+canvas{
+    width:90%;
+    max-width:1200px;
+    margin-top:20px;
+    border:2px solid #00ffff;
+}
+
+a{
+    display:inline-block;
+    margin:20px;
+    color:#00ffff;
+    font-size:20px;
+    text-decoration:none;
+}
